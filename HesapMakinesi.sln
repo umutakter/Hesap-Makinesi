@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesi", "WindowsFormsApp22\HesapMakinesi.csproj", "{81A9BE40-0CB3-4AD0-BECD-BAA2F218811B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81A9BE40-0CB3-4AD0-BECD-BAA2F218811B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81A9BE40-0CB3-4AD0-BECD-BAA2F218811B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81A9BE40-0CB3-4AD0-BECD-BAA2F218811B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81A9BE40-0CB3-4AD0-BECD-BAA2F218811B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03D98288-DDE5-48D9-B4E0-C15E8CA51176}
+	EndGlobalSection
+EndGlobal
